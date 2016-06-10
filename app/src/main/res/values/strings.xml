@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Hoop Counter</string>
+    <string name="away_team">Away Team</string>
+    <string name="home_team">Home Team</string>
+    <string name="adjust_score">Adjust Score</string>
+    <string name="reset">Reset</string>
 </resources>
